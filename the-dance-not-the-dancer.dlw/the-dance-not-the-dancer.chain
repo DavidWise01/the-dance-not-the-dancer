@@ -2,8 +2,8 @@ ROOT0-DLW-CHAIN-v1
 index : 405
 slug  : the-dance-not-the-dancer
 seal  : 2d7fd6af7d16d5e3b47325a219afb85f281879d6c523849e540c83236f662052
-prev  : 4f62880507d6e1d09bdc3253ae5cad0fc64595aa8b03ea7872d85c7fd48da484
-link  : 2f7931d44262da1d8f8d0eb34657453412675286a800f9c647cae8c6e2314c5b
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+prev  : 86f3fb2677de35edc56dfa54b63dbd76d5d377de7d14d71e68890ea968a45e1a
+link  : 60b88065d7641e7b7d14bd127af6056a3fb07ee26955ed718169b1828cc92eed
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
